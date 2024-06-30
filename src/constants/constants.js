@@ -40,6 +40,9 @@ import {
     },
   ];
   
+  /*
+  *
+    TODO:  Modificar a mis servicios */
   const services = [
     {
       title: "Web Developer",
