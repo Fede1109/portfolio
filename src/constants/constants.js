@@ -116,7 +116,7 @@ import {
       icon: docker,
     },
   ];
-  
+  // TODO: Adaptar a mis experiencias laborales
   const experiences = [
     {
       title: "React.js Developer",
