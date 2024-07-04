@@ -70,6 +70,7 @@ const Works = () => {
           links to code repositories and live demos in it. It reflects my
           ability to solve complex problems, work with different technologies,
           and manage projects effectively.
+          (TODO: those are examples projects, not mine)
         </motion.p>
       </div>
 
